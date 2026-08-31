@@ -47,7 +47,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,10,25,40&height=120&section=footer&text=Escribiendo%20código%20limpio%20y%20elegante&fontSize=20&fontColor=00BFFF&animation=fadeIn&fontAlignY=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,10,25,40&height=130&section=footer&text=Escribiendo%20código%20limpio%20y%20elegante&fontSize=22&fontColor=00BFFF&animation=fadeIn&fontAlignY=50" width="100%" />
 </div>
 
 <div align="center">
