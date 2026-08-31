@@ -4,7 +4,7 @@
 
 <div align="center">
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=620&lines=Estudiante+de+Desarrollo+de+Software;Construyendo+soluciones+paso+a+paso" alt="Typing Effect" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=620&lines=Estudiante+de+Desarrollo+de+Software;Construyendo+soluciones+paso+a+paso" alt="Typing Effect" />
   </p>
 </div>
 
@@ -47,5 +47,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,8,12&height=130&section=footer&text=Escribiendo%20código%20limpio%20y%20elegante&fontSize=22&fontColor=39FF14&animation=fadeIn&fontAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,8,12&height=130&section=footer&text=Escribiendo%20código%20limpio%20y%20elegante&fontSize=22&fontColor=00BFFF&animation=fadeIn&fontAlignY=70" width="100%" />
 </div>
