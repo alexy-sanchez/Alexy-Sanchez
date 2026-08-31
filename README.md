@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,8,12&height=180&section=header&text=¡Hola,%20soy%20Jonathan!%20👋&fontSize=40&fontColor=39FF14&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,5,15,25&height=180&section=header&text=¡Hola,%2520soy%2520Jonathan!%2520👋&fontSize=40&fontColor=39FF14&animation=fadeIn&fontAlignY=38" width="100%" />
 </div>
 
 <div align="center">
@@ -47,5 +47,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,3,8,12&height=130&section=footer&text=Escribiendo%20código%20limpio%20y%20elegante&fontSize=22&fontColor=00BFFF&animation=fadeIn&fontAlignY=70" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,5,15,25&height=130&section=footer&text=Escribiendo%2520código%2520limpio%2520y%2520elegante&fontSize=22&fontColor=00BFFF&animation=fadeIn&fontAlignY=60" width="100%" />
 </div>
