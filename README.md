@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a,1e3a8a,0f172a&height=180&section=header&text=¡Hola,%20soy%20Jonathan!%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a,1e3a8a,0f172a&height=180&section=header&text=Hola%20soy%20Jonathan%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 </div>
 
 <div align="center">
@@ -40,12 +40,12 @@
 
 <div align="center">
   <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexy-sanchez&theme=radical&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yandel16&theme=radical&hide_border=true" alt="GitHub Streak" />
   </p>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a,1e3a8a,0f172a&height=130&section=footer&text=Escribiendo%20código%20limpio%20y%20elegante&fontSize=22&fontColor=00BFFF&animation=fadeIn&fontAlignY=70" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a,1e3a8a,0f172a&height=130&section=footer&text=Escribiendo%20codigo%20limpio%20y%20elegante&fontSize=22&fontColor=00BFFF&animation=fadeIn&fontAlignY=70" width="100%" />
 </div>
