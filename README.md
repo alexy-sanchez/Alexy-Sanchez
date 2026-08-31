@@ -4,7 +4,7 @@
 
 <div align="center">
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=620&lines=Estudiante+de+Desarrollo+de+Software;Desarrollador+Full-Stack+en+formaci%C3%B3n;Apasionado+por+las+Bases+de+Datos+y+Python;Construyendo+soluciones+paso+a+paso" alt="Typing Effect" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=620&lines=Estudiante+de+Desarrollo+de+Software;Construyendo+soluciones+paso+a+paso" alt="Typing Effect" />
   </p>
 </div>
 
