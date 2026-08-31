@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,15,30,45&height=180&section=header&text=¡Hola,%20soy%20Jonathan!%20👋&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,10,25,40&height=180&section=header&text=¡Hola,%20soy%20Jonathan!%20👋&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" />
 </div>
 
 <div align="center">
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=DAA520&center=true&vCenter=true&width=620&lines=Estudiante+de+Desarrollo+de+Software;Construyendo+soluciones+paso+a+paso" alt="Typing Effect" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=620&lines=Estudiante+de+Desarrollo+de+Software;Construyendo+soluciones+paso+a+paso" alt="Typing Effect" />
   </p>
 </div>
 
@@ -47,11 +47,11 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,15,30,45&height=120&section=footer&text=Escribiendo%20código%20limpio%20y%20elegante&fontSize=20&fontColor=DAA520&animation=fadeIn&fontAlignY=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,10,25,40&height=120&section=footer&text=Escribiendo%20código%20limpio%20y%20elegante&fontSize=20&fontColor=00BFFF&animation=fadeIn&fontAlignY=50" width="100%" />
 </div>
 
 <div align="center">
   <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=1000&color=DAA520&center=true&vCenter=true&width=500&lines=Escribiendo+c%C3%B3digo+limpio;Construyendo+soluciones+paso+a+paso;Siempre+aprendiendo+algo+nuevo" alt="Typing Effect Footer" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Escribiendo+c%C3%B3digo+limpio;Construyendo+soluciones+paso+a+paso;Siempre+aprendiendo+algo+nuevo" alt="Typing Effect Footer" />
   </p>
 </div>
