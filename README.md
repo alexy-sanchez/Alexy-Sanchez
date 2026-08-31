@@ -47,8 +47,5 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,10,25,40&height=140&section=footer" width="100%" />
-  <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Escribiendo+c%C3%B3digo+limpio;Construyendo+soluciones+paso+a+paso;Siempre+aprendiendo+algo+nuevo" alt="Typing Effect Footer" />
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,5,30&height=130&section=footer&text=Escribiendo%20código%20limpio%20y%20elegante&fontSize=22&fontColor=00BFFF&animation=fadeIn&fontAlignY=50" width="100%" />
 </div>
