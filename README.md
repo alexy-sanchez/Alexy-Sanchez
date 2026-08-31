@@ -40,9 +40,6 @@
 
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=alexy-sanchez&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  </p>
-  <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=alexy-sanchez&theme=radical&hide_border=true" alt="GitHub Streak" />
   </p>
 </div>
@@ -50,5 +47,7 @@
 ---
 
 <div align="center">
-  <p>⚡ <em>"Escribiendo código limpio y construyendo soluciones paso a paso."</em></p>
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Escribiendo+c%C3%B3digo+limpio;Construyendo+soluciones+paso+a+paso;Siempre+aprendiendo+algo+nuevo" alt="Typing Effect Footer" />
+  </p>
 </div>
